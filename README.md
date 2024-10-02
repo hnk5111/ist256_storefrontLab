@@ -1,1 +1,3 @@
-# ist156_storefrontLab
+# ist256_storefrontLab
+
+Individual semester-long project developing an online storefront using HTML, CSS, javascript, and bootstrap.
